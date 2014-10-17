@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lpn:home|Door43 (lpn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lpn|d43-lpn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lpn/archive/master.zip|d43-lpn.zip]]
+
+**Recent Changes**
+{{changes>ns = lpn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lpn|Ethnologue data]]
+
